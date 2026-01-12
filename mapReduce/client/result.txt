@@ -1,0 +1,8 @@
+(abab, 1)
+(cccd, 2)
+(aaa, 2)
+(bbb, 3)
+(cc, 1)
+(ee, 2)
+(aa, 1)
+(ccc, 2)
